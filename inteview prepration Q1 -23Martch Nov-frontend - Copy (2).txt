@@ -1,0 +1,7 @@
+Q1 What are the common AJAX frameworks?
+Dojo Toolkit
+YUI
+Google Web Toolkit (GWT)
+Spry
+MooTools
+Prototype

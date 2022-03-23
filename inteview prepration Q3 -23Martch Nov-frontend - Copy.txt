@@ -1,0 +1,7 @@
+Q3 What are the important methods of XMLHttpRequest?
+abort() - It is used to cancel the current request.
+getAllResponseHeaders() - It returns the header details.
+getResponseHeader() - It returns the specific header details.
+open() - It is used to open the request.
+send() - It is used to send the request.
+setRequestHeader() - It adds request header.

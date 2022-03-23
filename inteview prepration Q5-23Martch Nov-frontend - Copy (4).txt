@@ -1,0 +1,3 @@
+Q5 What is the role of the callback function in AJAX?
+The callback function passes a function as a parameter to another function. If we have to perform various AJAX tasks on a website,
+ then we can create one function for executing XMLHttpRequest and a callback function to execute each AJAX task.

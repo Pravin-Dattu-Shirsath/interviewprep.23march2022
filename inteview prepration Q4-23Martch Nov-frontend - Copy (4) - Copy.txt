@@ -1,0 +1,4 @@
+Q4 What are the types of open() method used for XMLHttpRequest?
+open(method, URL) - It opens the request specifying get or post method and URL.
+open(method, URL, async) - It is same as above but specifies asynchronous or not.
+open(method, URL, async, username, password) - It is same as above but specifies the username and password.
